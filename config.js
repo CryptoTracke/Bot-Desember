@@ -118,7 +118,7 @@ global.ultahowner = 'Desemver 11 2022'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://d.top4top.io/p_2555istok0.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
 global.giflogo = 'https://ibb.co/3sJ0ybv'
 global.thumbbc = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //For broadcast
@@ -148,7 +148,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://d.top4top.io/p_2555istok0.jpg'
+global.thumbdoc = 'https://telegra.ph/file/cf9899e70163960c96ed2.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
