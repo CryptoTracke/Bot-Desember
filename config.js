@@ -27,12 +27,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/saep.02'
-global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
-global.sgh = 'https://github.com/SaepEp'
-global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/628812743180'
-global.swb = 'https://discord.gg/4HvezMAw'
+global.sig = 'https://wa.me/6285975390195'
+global.syt = 'https://youtube.com/@isciteam18'
+global.sgh = 'https://youtube.com/@isciteam18'
+global.sgc = 'https://chat.whatsapp.com/G4cJzVQwpgh6UuJGnmRiCi'
+global.swa = 'wa.me/6285975390195'
+global.swb = 'https://chat.whatsapp.com/G4cJzVQwpgh6UuJGnmRiCi'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
@@ -44,18 +44,18 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628989513496'
-global.namebot = 'NexBotz'
-global.nameown = 'NexEp'
+global.nomorbot = '6285975390195'
+global.nomorown = '6285975390195'
+global.namebot = 'RobotKuPintar'
+global.nameown = 'RobotKuPintar'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288221354110'],
-  ['6283891677178'],
-  ['18126338970'],
-  ['628989513496', 'Bang Fuad', true]
+  ['6285975390195'],
+  ['6285975390195'],
+  ['6285975390195'],
+  ['6285975390195', 'amell', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -105,37 +105,37 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'NexEp'
-global.wm3 = 'NexBotz | By NexEp'
-global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
-global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'NexEp' 
-global.packname = 'NexEp'
+global.wm = 'Copyright &copy; By Amell' //Main Watermark
+global.wm2 = 'RobotKuPintar'
+global.wm3 = 'Amell | By Robotku Pintar'
+global.botdate = `Copyright &copy; By Amell`
+global.bottime = `CryptoTracker`
+global.titlebot = `RobotkuPintar | ʙʏ ${global.nameown}`
+global.author = 'RobotKuPintar' 
+global.packname = 'RobotKuPintar'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Juli 11 2022'
+global.ultahowner = 'Desemver 11 2022'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
-global.giflogo = 'https://ibb.co/3sJ0ybv'
-global.thumbbc = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.giflogo2 = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
+global.thumb = 'https://d.top4top.io/p_2555istok0.jpg' //Main Thumbnail
+global.imagebot = 'https://d.top4top.io/p_2555istok0.jpg'
+global.giflogo = 'https://d.top4top.io/p_2555istok0.jpg'
+global.thumbbc = 'https://d.top4top.io/p_2555istok0.jpg' //For broadcast
+global.giflogo = 'https://d.top4top.io/p_2555istok0.jpg'
+global.giflogo2 = 'https://d.top4top.io/p_2555istok0.jpg'
+global.thumbs = ['https://d.top4top.io/p_2555istok0.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.thumbBanned = 'https://d.top4top.io/p_2555istok0.jpg'
+global.thumbWarn = 'https://d.top4top.io/p_2555istok0.jpg'
+global.botintro = 'Hallo, Kenalin saya Amel Saya akan membantu Anda kapan pun & Dimana pun, Saya Owner bot WhatsApp yang di buat oleh CryptoTracker Saya di rilis pada tanggal\n🗓️ ️_29/12/2022_'
+global.intro = 'https://d.top4top.io/p_2555istok0.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'NexEp'
-global.umurowner = '19'
+global.nameowner = 'Amell'
+global.umurowner = '15'
 global.asalowner = 'Jawa Barat, Bekasi'
-global.nomorowner = 'wa.me/628812743180'
-global.pacarowner = 'Kaede Hitotsuba'
+global.nomorowner = 'wa.me/6285975390195'
+global.pacarowner = 'CryptoTracker'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -148,7 +148,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/cf9899e70163960c96ed2.jpg'
+global.thumbdoc = 'https://d.top4top.io/p_2555istok0.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -165,10 +165,10 @@ global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ 
 // COMMAND MENU
 global.cmenut = '––––––『' //top
 global.cmenuh = '』––––––' //header
-global.cmenub = '┊☃︎ ' //body
+global.cmenub = '┊❍➤ ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
 global.cmenua = '' //after
-global.pmenus = '☃︎' //pembatas menu selector
+global.pmenus = '︎❍➤' //pembatas menu selector
 
 global.htki = '––––『' //hiasan title kiri
 global.htka = '』––––' //hiasan title kanan
@@ -383,7 +383,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
+global.stickpack = 'Copyright &copy; By Amell'
 global.stickauth = `NexEp`
 
 global.multiplier = 38 // The higher, The harder levelup
