@@ -8,7 +8,7 @@ handler.tags = ['premium']
 handler.command = /^(indohot)$/i
 handler.owner = false
 handler.mods = false
-handler.premium = true
+handler.premium = false
 handler.group = false
 handler.private = false
 
