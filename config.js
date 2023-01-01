@@ -47,7 +47,7 @@ global.psaweria = '-'
 global.nomorbot = '6285975390195'
 global.nomorown = '6285975390195'
 global.namebot = 'RobotKupintar'
-global.nameown = 'NexEp'
+global.nameown = 'Copyright &copy; by Amell'
 
 
 /*============== STAFF ==============*/
@@ -106,8 +106,8 @@ global.bear = 'VBkM7rbU'
 
 /*============== WATERMARK ==============*/
 global.wm = 'Copyright &copy; by Amell' //Main Watermark
-global.wm2 = 'NexEp'
-global.wm3 = 'Amell | By NexEp'
+global.wm2 = 'RobotkuPintar'
+global.wm3 = 'Amell | By RobotkuPintar'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
@@ -131,7 +131,7 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya Amell Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh CryptoTracker Saya di rilis pada tanggal\n🗓 ️_16/12/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'NexEp'
+global.nameowner = 'RobotkuPintar'
 global.umurowner = '15'
 global.asalowner = 'Jawa Barat, Bekasi'
 global.nomorowner = 'wa.me/6285975390195'
@@ -383,8 +383,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `NexEp`
+global.stickpack = 'By Amell'
+global.stickauth = `RobotkuPintar`
 
 global.multiplier = 38 // The higher, The harder levelup
 
