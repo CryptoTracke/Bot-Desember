@@ -86,7 +86,7 @@ global.loadDatabase = async function loadDatabase() {
 }
 loadDatabase()
 
-global.authFile = `${opts._[0] || 'NexBotz'}.data.json`
+global.authFile = `${opts._[0] || 'RobotKuPintar'}.data.json`
 const { state, saveState } = store.useSingleFileAuthState(global.authFile)
 
 const connectionOptions = {
@@ -166,7 +166,7 @@ global.reloadHandler = async function (restatConn) {
   }
 
   conn.welcome = '✧━━━━━━[ *WELCOME* ]━━━━━━✧\n\n┏––––––━━━━━━━━•\n│⫹⫺ @subject\n┣━━━━━━━━┅┅┅\n│( 👋 Hallo @user)\n├[ *INTRO* ]—\n│ *Nama:* \n│ *Umur:* \n│ *Gender:*\n┗––––––━━┅┅┅\n\n––––––┅┅ *DESCRIPTION* ┅┅––––––\n@desc'
-  conn.bye = '✧━━━━━━[ *GOOD BYE* ]━━━━━━✧\nSayonara *@user* 👋( ╹▽╹ )'
+  conn.bye = '✧━━━━━━[ *GOOD BYE* ]━━━━━━✧\n *@user* 👋Kami Turut Berdukacita atas Kepergian, Semoga Beliau Husnul Khotimah, Memberr Yang ditinggalkan diberikan Kesabaran dan Keikhlasan😌'
   conn.spromote = '@user sekarang admin!'
   conn.sdemote = '@user sekarang bukan admin!'
   conn.sDesc = 'Deskripsi telah diubah ke \n@desc'
