@@ -3,24 +3,18 @@ let imgr = flaaa.getRandom()
 let text = `*SYARAT & KETENTUAN*
     
 
-📮 S&K
-1. Jangan diperjual belikan Script ini
-2. Jangan salah gunakan script ini!
-3. Jangan lupa Subscribe Youtube
-4. Jangan di per jual belikan
-• Jika ada eror di sc hub https://wa.me/628812743180
+☣️ S&K
+1. KALO MINAT HUBUNGI OWNER!!!
+2. JUAL BELI PANEL 
+3. SEWA BOT/SCRIPT
+• Jika ada eror di sc hub https://wa.me/6285975390195
+• Owner RobotKuPintar https://wa.me/6287738444826
 
 --------Thanks to ✨---------
-Allah SWT
-My parents
-All Friends
-All Contributors
-All Creator Bot
-Adiwajshing
-Nurutomo
-BochilGaming`
+Copyright & Copy By : RISMELL
+Copyright & Copy By : RobotKuPintar`
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Script di sini', url: 'https://wa.me/628812743180'}},
+    {index: 1, urlButton: {displayText: 'Script di sini', url: 'https://wa.me/6285975390195'}},
 ]
 let tm = {
 text: text,
