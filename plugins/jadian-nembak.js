@@ -38,9 +38,9 @@ let ps = groupMetadata.participants.map(v => v.id)
     let users = m.isGroup ? participants.find(v => areJidsSameUser(v.jid == user)) : {}
     if(!users) return conn.reply(m.chat, `*_Target atau Nomor tidak ditemukan, mungkin sudah keluar atau bukan anggota grup ini.*_`, m)
     if(user === m.sender) return conn.reply(m.chat, `_*Tidak bisa berpacaran dengan diri sendiri.*_`, m)
-    if(user === conn.user.jid) return conn.reply(m.chat, `_*Tidak bisa berpacaran dengan saya. :')*_`, m)
+    if(user === conn.user.jid) return conn.reply(m.chat, `_*Tidak Bisa berpacaran dengan Saya. Kamu Lebih Baik Mati Aja Deh🗿. :')*_`, m)
 
-    if (typeof global.db.data.users[user] == "undefined") return m.reply("_*Orang yang anda tag tidak terdaftar di dalam database.*_")
+    if (typeof global.db.data.users[user] == "undefined") return m.reply("_*Orang yang anda tag tidak terdaftar Karna Sudah Meninggoy*_")
     var pacar = global.db.data.users[user].pasangan
     var spac = global.db.data.users[m.sender].pasangan
     if(global.db.data.users[m.sender].pasangan != "" && global.db.data.users[global.db.data.users[m.sender].pasangan].pasangan == m.sender && global.db.data.users[m.sender].pasangan != user){
@@ -55,7 +55,7 @@ let ps = groupMetadata.participants.map(v => v.id)
       }
     }else if (global.db.data.users[user].pasangan == m.sender){
       global.db.data.users[m.sender].pasangan = user
-      conn.reply(m.chat, `Selamat anda resmi berpacaran dengan @${user.split('@')[0]}\n\nSemoga langgeng dan bahagia selalu 🥳🥳🥳`, m , { contextInfo: { mentionedJid: [user]}})
+      conn.reply(m.chat, `Selamat anda resmi berpacaran dengan @${user.split('@')[0]}\n\nSemoga langgeng dan bahagia selalu 🥰🥰🥳🥳`, m , { contextInfo: { mentionedJid: [user]}})
     }else {
       global.db.data.users[m.sender].pasangan = user
       conn.reply(m.chat, `${await ktnmbk.getRandom()}\n\nKamu baru saja mengajak @${user.split('@')[0]} berpacaran\n\nSilahkan menunggu jawaban darinya!\n\nKetik *${usedPrefix}terima @user* untuk menerima\n*${usedPrefix}tolak @user untuk menolak*`, m , { contextInfo: { mentionedJid: [user]}})

@@ -22,8 +22,8 @@ ${pickRandom(global.pantun)}
                 },
                 {
                     urlButton: {
-                        displayText: ' SUBSCRIBE ME',
-                        url: 'https://youtu.be/pwLZpdfO8AU'
+                        displayText: ' GROUP WHATSAPP ME',
+                        url: 'https://chat.whatsapp.com/LRaxFMYwXAxDJUH8CCDNDm'
                     }
                 },
                 {
